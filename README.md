@@ -1,5 +1,10 @@
 <h1 align="center">TS-Pattern</h1>
 
+<h1 align="center">This is FORK of ts-prime</h1>
+<p align="center">
+This was required to acomodate my development needs
+</p>
+
 <p align="center">
 The exhaustive Pattern Matching library for <a href="https://github.com/microsoft/TypeScript">TypeScript</a>
 with smart type inference.
